@@ -1,4 +1,4 @@
-Usage
+體重管理
 =====
 
 .. _installation:
