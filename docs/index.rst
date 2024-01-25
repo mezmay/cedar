@@ -22,5 +22,4 @@ Contents
 
    Home <self>
    usage
-   api
    weight_management
