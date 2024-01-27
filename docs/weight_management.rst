@@ -3,10 +3,15 @@
 
 .. _installation:
 
-Installation
-------------
+身體質量指數（BMI）：
+-----------------
 
-To use Lumache, first install it using pip:
+&&BMI = \frac{體重(公斤)}{身高(公尺)^2}&&
+
+體重是否正常的判斷：
+------------------
+
+體重過輕
 
 .. code-block:: console
 
