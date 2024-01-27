@@ -1,7 +1,7 @@
 體重管理
 =====
 
-.. _installation:
+.. _BMI:
 
 身體質量指數（BMI）：
 -----------------
@@ -19,16 +19,17 @@
 * 體重過輕：BMI<18.5
 * 體重正常：18.5<=BMI<24
 * 體重過重：24<=BMI<27
-* 輕度肥胖：27<=BMI<30.0
-* 中度肥胖：30.0<=BMI<35
+* 輕度肥胖：27<=BMI<30
+* 中度肥胖：30<=BMI<35
 * 重度肥胖：BMI>=35
 
-.. code-block:: console
+.. _waistline:
 
-   (.venv) $ pip install lumache
+腰圍：
+------------------
+根據國民健康署，成人腰圍正常標準如下：
 
-Creating recipes
-----------------
+* 男性： < 90公分
+* 女性： < 85公分
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+
