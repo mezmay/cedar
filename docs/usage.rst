@@ -1,16 +1,17 @@
 血脂肪過高
 =====
 
-.. _installation:
+.. _dislipidemia:
 
-Installation
+什麼叫做血脂肪過高？
 ------------
 
-To use Lumache, first install it using pip:
+包括下列指數：
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+* 總膽固醇
+* 高密度脂蛋白
+* 低密度脂蛋白
+* 三酸甘油脂
 
 Creating recipes
 ----------------
