@@ -10,3 +10,4 @@ Contents
    Home <self>
    dislipidemia
    weight_management
+   fattyliver
