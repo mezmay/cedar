@@ -32,25 +32,89 @@
 
 * 
 
+http://tsim.org.tw/helth/hel327_m706.html
+
+
+
+修訂後給付規定節錄自以下網頁
+
+http://tsim.org.tw/helth/hel327_m706.html
+
+2.6.1.全民健康保險降血脂藥物給付規定表（86/1/1、87/4/1、87/7/1、91/9/1、93/9/1、97/7/1、102/8/1、108/2/1）
+
+
+
+非藥物治療
+
+起始藥物治療血脂值
+
+血脂目標值
+
+處方規定
+
+有急性冠狀動脈症候群病史
+曾接受心導管介入治療或外科冠動脈搭橋手術之冠狀動脈粥狀硬化患者(108/2/1)
+與藥物治療可並行
+
+LDL-C≧70mg/dL
+
+LDL-C＜70mg/dL
+
+第一年應每3-6個月抽血檢查一次，第二年以後應至少每6-12個月抽血檢查一次，同時請注意副作用之產生如肝功能異常，橫紋肌溶解症。
+
+心血管疾病或糖尿病患者
+
+與藥物治療可並行
+
+TC≧160mg/dL或LDL-C≧100mg/dL
+
+TC＜160mg/dL或LDL-C＜100mg/dL
+
+2個危險因子或以上
+
+給藥前應有3-6個月非藥物治療
+
+TC≧200mg/dL或
+LDL-C≧130mg/dL
+
+TC＜200mg/dL或
+LDL-C＜130mg/dL
+
+1個危險因子
+
+給藥前應有3-6個月非藥物治療
+
+TC≧240mg/dL或
+LDL-C≧160mg/dL
+
+TC＜240mg/dL或
+LDL-C＜160mg/dL
+
+0個危險因子
+
+給藥前應有3-6個月非藥物治療
+
+LDL-C≧190mg/dL
+
+LDL-C＜190mg/dL
+
+心血管疾病定義：
+(一)冠狀動脈粥狀硬化患者包含：心絞痛病人，有心導管證實或缺氧性心電圖變化或負荷性試驗陽性反應者(附檢查報告)
+(二)缺血型腦血管疾病患者包含：
+1.腦梗塞。
+2.暫時性腦缺血患者(TIA)。（診斷須由神經科醫師確立）
+3.有症狀之頸動脈狹窄。（診斷須由神經科醫師確立）
+
+危險因子定義：
+1.高血壓
+2.男性≧45歲，女性≧55歲或停經者
+3.有早發性冠心病家族史(男性≦55歲，女性≦65歲)
+4.HDL-C<40mg/dL
+5.吸菸(因吸菸而符合起步治療準則之個案，若未戒菸而要求藥物治療，應以自費治療)。
+
+備註：劃線部分為新修訂規定。
 
 
 
 
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
