@@ -19,6 +19,7 @@ GLP1常見不適
 * 情緒異常
 * 心跳快
 * 視網膜病變併發症（玻璃體出血、失明或需要玻璃體內藥物或光凝固治療的病症）的發生率顯著較高（風險比，1.76)(https://pubmed.ncbi.nlm.nih.gov/27633186/)
+* 停藥後體重反彈。
 
 GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進一步研究)
 -----------------------------------------
@@ -29,6 +30,6 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 
 * 肌肉流失，然而減重對於整體健康仍可能有益處。(https://www.investors.com/news/technology/weight-loss-drugs-how-outliers-like-biohaven-regeneron-are-trying-to-squeeze-into-the-obesity-space/?src=A00220&yptr=yahoo)
 
-* 停藥後體重反彈。
+
 
 
