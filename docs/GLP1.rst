@@ -48,4 +48,4 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 其他正在研究之中的相關藥物有哪些？
 ============================
 
-因為西方肥胖率高，減重市場廣大，GLP1 因為能有明顯的減重效果，市場日漸受到重視，包括禮來(NYSE: LLY)的Mounjaro(Tirzepatide)。另外，安進(Amgen Inc. (AMGN))等藥廠正在研究許多藥物的臨床效果。其中除了GLP1效果，還有另一種Gastric inhibitory polypeptide receptor(GIP-R)靶點，希望能有更持久的減重效果。
+西方肥胖率高，減重市場廣大，GLP1具備明顯的減重效果，日漸受到藥廠重視，除了諾和諾德的semaglutide，其他另有禮來(NYSE: LLY)的Mounjaro(Tirzepatide)。另外，安進(Amgen Inc. (AMGN))等藥廠正在研究許多藥物的臨床效果。其中除了GLP1效果，還有另一種Gastric inhibitory polypeptide receptor(GIP-R)靶點，希望能有更持久的減重效果。
