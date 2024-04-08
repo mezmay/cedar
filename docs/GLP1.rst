@@ -6,7 +6,7 @@
 司美格魯泰(Semaglutide)是什麼藥物？
 -----------
 
-* GLP-1 糖尿病藥物
+* Glucagon-like peptide-1(GLP-1)糖尿病藥物
 
 * 具有體重減輕作用。FDA核可用於減重，但未經衛福部核可應用於減重。
 
@@ -45,7 +45,7 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 * 副作用與semaglutide類似。
 
 
-其他正在研究之中的GLP1藥物有哪些？
+其他正在研究之中的相關藥物有哪些？
 ============================
 
-包括禮來，安進等藥廠正在研究許多藥物的臨床效果。
+因為西方肥胖率高，減重市場日漸受到重視，包括禮來(NYSE: LLY)的Mounjaro(Tirzepatide)，安進(Amgen Inc. (AMGN))等藥廠正在研究許多藥物的臨床效果。其中除了GLP1效果，還有另一種Gastric inhibitory polypeptide receptor(GIP-R)靶點，希望能有更持久的減重效果。
