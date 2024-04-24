@@ -32,6 +32,7 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 
 * 口服semaglutide減重效果尚未被廣泛接受，仍有其他研究正在進行。(http://www.genetinfo.com/international-news/item/76574.html)
 
+* 歐盟藥品監管機構沒有發現semaglutide與自殺意念有相關。(https://medriva.com/weight-management/eu-regulators-see-no-link-between-weight-loss-drugs-and-suicidal-thoughts-4480761)
 
 膳纖達(Saxenda)是什麼藥物？
 ========================
