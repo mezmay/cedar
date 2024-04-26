@@ -35,7 +35,7 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 * 歐盟藥品監管機構沒有發現semaglutide與自殺意念有相關。(https://medriva.com/weight-management/eu-regulators-see-no-link-between-weight-loss-drugs-and-suicidal-thoughts-4480761)
 
 膳纖達(Saxenda)是什麼藥物？
-========================
+-----------------------
 
 * GLP-1 糖尿病藥物
 
@@ -47,7 +47,7 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 
 
 其他正在研究之中的相關藥物有哪些？
-============================
+---------------------------
 
 西方肥胖率高，減重市場廣大，GLP1具備明顯的減重效果，日漸受到藥廠重視，
 除了諾和諾德的semaglutide，其他另有禮來(NYSE: LLY)的Mounjaro(Tirzepatide)。

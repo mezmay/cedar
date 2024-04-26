@@ -8,6 +8,7 @@ Contents
 .. toctree::
 
    Home <self>
+   HTN
    dislipidemia
    weight_management
    fattyliver
