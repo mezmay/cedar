@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "衛教開放原始碼網頁"
+copyright = "2024, cedar-pine team"
+author = "cedar-pine team"
 
 
 # -- General configuration ---------------------------------------------------
