@@ -12,3 +12,4 @@ Contents
    dislipidemia
    weight_management
    fattyliver
+   gout
