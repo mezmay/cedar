@@ -69,32 +69,36 @@ http://tsim.org.tw/helth/hel327_m706.html
 
 Here's a grid table followed by a simple table:
 
-+------------------------+------------+----------+----------+-----------+
-| 					     | 非藥物治療   |起始藥物治 | 血脂目標值 |           |
-|						 |            | 療血脂值  |          |           |   
-+========================+============+==========+==========+ 			|
-| body row 1, column 1   | column 2   | column 3 | column 4 |           |
-+------------------------+------------+----------+----------+			|
-| body row 2             | Cells may s|an columns|          |           |
-+------------------------+------------+---------------------+			|
-| body row 3             | Cells may  | - Table c|lls       |           |
-+------------------------+ span rows. | - contain|          |			|
-| body row 4             |            | - body el|ments.    |			|
-+------------------------+------------+----------+----------+			|
-| body row 5             | Cells may a|so be     |          |			|
-|                        | empty: ``--|``        |          |			|
-+------------------------+------------+----------+----------+-----------+
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | Cells may span columns.          |
++------------------------+------------+---------------------+
+| body row 3             | Cells may  | - Table cells       |
++------------------------+ span rows. | - contain           |
+| body row 4             |            | - body elements.    |
++------------------------+------------+----------+----------+
+| body row 5             | Cells may also be     |          |
+|                        | empty: ``-->``        |          |
++------------------------+-----------------------+----------+
 
-=====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
+
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
 
       -非藥物治療
       -起始藥物治療血脂值
