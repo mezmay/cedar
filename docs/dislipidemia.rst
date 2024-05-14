@@ -66,9 +66,12 @@ http://tsim.org.tw/helth/hel327_m706.html
 http://tsim.org.tw/helth/hel327_m706.html
 
 2.6.1.全民健康保險降血脂藥物給付規定表（86/1/1、87/4/1、87/7/1、91/9/1、93/9/1、97/7/1、102/8/1、108/2/1）
-+------------------------+------------+----------+----------+-----------+
-| 						 | 非藥物治療   | 起始藥物治療血脂值| Header 4 |			|
-|						 |            |          |          |			|
+
+Here's a grid table followed by a simple table:
+
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
 +========================+============+==========+==========+
 | body row 1, column 1   | column 2   | column 3 | column 4 |
 +------------------------+------------+----------+----------+
@@ -81,6 +84,17 @@ http://tsim.org.tw/helth/hel327_m706.html
 | body row 5             | Cells may also be     |          |
 |                        | empty: ``-->``        |          |
 +------------------------+-----------------------+----------+
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
 
       -非藥物治療
       -起始藥物治療血脂值
