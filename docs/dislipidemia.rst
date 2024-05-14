@@ -68,7 +68,7 @@ http://tsim.org.tw/helth/hel327_m706.html
 2.6.1.全民健康保險降血脂藥物給付規定表（86/1/1、87/4/1、87/7/1、91/9/1、93/9/1、97/7/1、102/8/1、108/2/1）
 
 .. list-table:: Title
-   :widths: 20 20 20 20 20
+   :widths: 5 5 5 5 5
    :header-rows: 1
 
    * -  
