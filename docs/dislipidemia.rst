@@ -87,7 +87,6 @@ Here's a grid table followed by a simple table:
 
 
 .. list-table:: Title
-   :widths: 25 25 50
    :header-rows: 1
 
    * - Heading row 1, column 1
