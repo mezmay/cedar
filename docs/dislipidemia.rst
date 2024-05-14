@@ -85,34 +85,22 @@ Here's a grid table followed by a simple table:
 |                        | empty: ``-->``        |          |
 +------------------------+-----------------------+----------+
 
-==========  ==========   ============================== =============
-Precedence  Operator     Description                    Associativity
-==========  ==========   ============================== =============
-1           \::          Scope resolution               |LR|
-----------  ----------   ------------------------------ -------------
-2           ( )          Function call                  |LR|
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
 
-            [ ]          Subscript
-
-            .            Member access
-
-            .{ }         Bit-field concatenation
-----------  ----------   ------------------------------ -------------
-3           \+           Unary plus                     |RL|
-
-            \-           Unary minus
-
-            !            Logical not
-
-            ~            Bitwise not
-
-            (|type|)     Type cast
-
-            & (unary)    Address-of
-
-            sizeof       Size-of
-----------  ----------   ------------------------------ -------------
-
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+     
+separate
+------------------------------------
 
    * -非藥物治療
      -起始藥物治療血脂值
