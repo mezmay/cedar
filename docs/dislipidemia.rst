@@ -86,18 +86,29 @@ Here's a grid table followed by a simple table:
 +------------------------+-----------------------+----------+
 
 .. list-table:: Title
-   :widths: 25 25 50
+   :widths: 20 20 20 20 20
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+   * -  
+     - 非藥物治療
+     - 起始藥物治療血脂值
+     - 血脂目標值
+     - 處方規定
+   * - 有急性冠狀動脈症候群病史 曾接受心導管介入治療或外科冠動脈搭橋手術之冠狀動脈粥狀硬化患者(108/2/1) 
+     - 與藥物治療可並行
+     - LDL-C≧70mg/dL 
+     - LDL-C＜70mg/dL
+     - 第一年應每3-6個月抽血檢查一次，第二年以後應至少每6-12個月抽血檢查一次，同時請注意副作用之產生如肝功能異常，橫紋肌溶解症。
+   * - 心血管疾病或糖尿病患者
+     - 與藥物治療可並行
+     - TC≧160mg/dL或LDL-C≧100mg/dL
+     - TC＜160mg/dL或LDL-C＜100mg/dL
+     - 
+   * - 2個危險因子或以上
+     - 給藥前應有3-6個月非藥物治療
+     - TC≧200mg/dL或LDL-C≧130mg/dL
+     - TC＜200mg/dL或LDL-C＜130mg/dL
+     - 
      
 separate
 ------------------------------------
