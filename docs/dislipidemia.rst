@@ -67,24 +67,6 @@ http://tsim.org.tw/helth/hel327_m706.html
 
 2.6.1.全民健康保險降血脂藥物給付規定表（86/1/1、87/4/1、87/7/1、91/9/1、93/9/1、97/7/1、102/8/1、108/2/1）
 
-Here's a grid table followed by a simple table:
-
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+----------+----------+
-| body row 5             | Cells may also be     |          |
-|                        | empty: ``-->``        |          |
-+------------------------+-----------------------+----------+
-
 .. list-table:: Title
    :widths: 20 20 20 20 20
    :header-rows: 1
