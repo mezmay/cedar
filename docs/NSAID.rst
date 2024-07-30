@@ -16,9 +16,15 @@ NSAID有哪些？
 ------------
 
 * Ibuprofen
-* Diclofen
+* Diclofenac
+* Mefenamic Acid
+* Naproxen
+* Indomethacin
+* Sulindac
 * 日本購買的EVE
 * IB改源
+* Celecoxib
+* Etoricoxib
 
 
 NSAID副作用為何？
@@ -26,7 +32,7 @@ NSAID副作用為何？
 
 * NSAID最嚴重的副作用為影響腎臟功能。長期口服使用NSAID會造成腎臟功能衰退
 * 此外，cox-1會造成腸胃道出血。
-* cox-2選擇性減少腸胃道出血，但仍會有可能影響腎臟功能。
+* cox-2(Etoricoxib,Celecoxib)選擇性減少腸胃道出血，但仍會有可能影響腎臟功能。
 
 發燒是否可自行服用Ibuprofen?
 ------------------------
