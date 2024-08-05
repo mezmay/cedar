@@ -115,7 +115,10 @@ http://tsim.org.tw/helth/hel327_m706.html
 #. HDL-C<40mg/dL
 #. 吸菸(因吸菸而符合起步治療準則之個案，若未戒菸而要求藥物治療，應以自費治療)。
 
+新藥：
+-----
 
+* Bempedoic Acid 可適用於statin不耐受的病人，可降低心血管風險。(https://pubmed.ncbi.nlm.nih.gov/36876740/)
 
 
 
