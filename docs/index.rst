@@ -14,4 +14,4 @@ Contents
    fattyliver
    gout
    NSAID
-   dash
+   DASH
