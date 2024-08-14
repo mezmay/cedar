@@ -62,7 +62,7 @@ Aloe Vera
 (https://pubmed.ncbi.nlm.nih.gov/16623024/)
 
 
-Full-fat diary
+Full-fat dairy
 -------------
 * Schmidt KA, Cromer G, Burhans MS, et al. Impact of low-fat and full-fat dairy foods on fasting lipid profile and blood pressure: exploratory endpoints of a randomized controlled trial. Am J Clin Nutr. 2021;114(3):882-892. doi:10.1093/ajcn/nqab131
 (https://pubmed.ncbi.nlm.nih.gov/34258627/)
