@@ -34,3 +34,10 @@ ELF EMF
 --------
 * Labrèche F, Goldberg MS, Valois MF, et al. Occupational exposures to extremely low frequency magnetic fields and postmenopausal breast cancer. Am J Ind Med. 2003;44(6):643-652. doi:10.1002/ajim.10264 (https://pubmed.ncbi.nlm.nih.gov/14635241/)
 
+PDE5 inhibitor
+--------------
+* Kloner RA, Stanek E, Desai K, et al. The association of tadalafil exposure with lower rates of major adverse cardiovascular events and mortality in a general population of men with erectile dysfunction. Clin Cardiol. 2024;47(2):e24234. doi:10.1002/clc.24234 
+(https://pubmed.ncbi.nlm.nih.gov/38377018/)
+
+* Konstantinovsky A, Kuchersky N, Kridin K, Blum A. Improvement in Endothelial Function in Men Taking Phosphodiesterase Type 5 Inhibitors for Erectile Dysfunction. Am J Med. 2023;136(10):1041-1043. doi:10.1016/j.amjmed.2023.07.010
+(https://pubmed.ncbi.nlm.nih.gov/37506991/)
