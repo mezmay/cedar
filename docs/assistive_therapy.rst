@@ -51,3 +51,30 @@ PDE5 inhibitor
 
 * Konstantinovsky A, Kuchersky N, Kridin K, Blum A. Improvement in Endothelial Function in Men Taking Phosphodiesterase Type 5 Inhibitors for Erectile Dysfunction. Am J Med. 2023;136(10):1041-1043. doi:10.1016/j.amjmed.2023.07.010
 (https://pubmed.ncbi.nlm.nih.gov/37506991/)
+
+
+Aloe Vera
+--------
+* Reuter J, Jocher A, Stump J, Grossjohann B, Franke G, Schempp CM. Investigation of the anti-inflammatory potential of Aloe vera gel (97.5%) in the ultraviolet erythema test. Skin Pharmacol Physiol. 2008;21(2):106-110. doi:10.1159/000114871
+(https://pubmed.ncbi.nlm.nih.gov/18253066/)
+
+* Puvabanditsin P, Vongtongsri R. Efficacy of aloe vera cream in prevention and treatment of sunburn and suntan. J Med Assoc Thai. 2005;88 Suppl 4:S173-S176.
+(https://pubmed.ncbi.nlm.nih.gov/16623024/)
+
+
+Full-fat diary
+-------------
+* Schmidt KA, Cromer G, Burhans MS, et al. Impact of low-fat and full-fat dairy foods on fasting lipid profile and blood pressure: exploratory endpoints of a randomized controlled trial. Am J Clin Nutr. 2021;114(3):882-892. doi:10.1093/ajcn/nqab131
+(https://pubmed.ncbi.nlm.nih.gov/34258627/)
+
+
+No-added-salt diet for HTN
+----------------------
+* Kojuri J, Rahimi R. Effect of "no added salt diet" on blood pressure control and 24 hour urinary sodium excretion in mild to moderate hypertension. BMC Cardiovasc Disord. 2007;7:34. Published 2007 Nov 6. doi:10.1186/1471-2261-7-34 
+(https://pubmed.ncbi.nlm.nih.gov/17986327/)
+
+Diet meta-analysis
+------------------
+*Bonekamp NE, Cruijsen E, Geleijnse JM, et al. Diet in secondary prevention: the effect of dietary patterns on cardiovascular risk factors in patients with cardiovascular disease: a systematic review and network meta-analysis. Nutr J. 2024;23(1):18. Published 2024 Feb 8. doi:10.1186/s12937-024-00922-8 
+(https://pubmed.ncbi.nlm.nih.gov/38331867/)
+
