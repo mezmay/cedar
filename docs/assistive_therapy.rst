@@ -22,7 +22,7 @@ Vitamine D
 
 Bempedoic Acid
 --------------
-* Nissen SE, Lincoff AM, Brennan D, et al. Bempedoic Acid and Cardiovascular Outcomes in Statin-Intolerant Patients. N Engl J Med. 2023;388(15):1353-1364. doi:10.1056/NEJMoa2215024(https://pubmed.ncbi.nlm.nih.gov/36876740/)
+* Nissen SE, Lincoff AM, Brennan D, et al. Bempedoic Acid and Cardiovascular Outcomes in Statin-Intolerant Patients. N Engl J Med. 2023;388(15):1353-1364. doi:10.1056/NEJMoa2215024 (https://pubmed.ncbi.nlm.nih.gov/36876740/)
 
 
 N-Acetyl-L-Cysteine (NAC)
