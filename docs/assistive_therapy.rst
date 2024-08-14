@@ -3,12 +3,12 @@ Some studies of assistive therapy
 
 .. _nutrition:
 
-葉黃素
+Luteine
 -----------
 * Chew EY, Clemons TE, Agrón E, et al. Long-term Outcomes of Adding Lutein/Zeaxanthin and ω-3 Fatty Acids to the AREDS Supplements on Age-Related Macular Degeneration Progression: AREDS2 Report 28. JAMA Ophthalmol. 2022;140(7):692-698. doi:10.1001/jamaophthalmol.2022.1640(https://pubmed.ncbi.nlm.nih.gov/35653117/)
 
 
-低碳水飲食
+Low Carbohydrate diet
 -----------
 * Barber TM, Hanson P, Kabisch S, Pfeiffer AFH, Weickert MO. The Low-Carbohydrate Diet: Short-Term Metabolic Efficacy Versus Longer-Term Limitations. Nutrients. 2021;13(4):1187. Published 2021 Apr 3. doi:10.3390/nu13041187 (https://pubmed.ncbi.nlm.nih.gov/33916669/)
 * Saslow LR, Jones LM, Sen A, et al. Comparing Very Low-Carbohydrate vs DASH Diets for Overweight or Obese Adults With Hypertension and Prediabetes or Type 2 Diabetes: A Randomized Trial. Ann Fam Med. 2023;21(3):256-263. doi:10.1370/afm.2968 (https://pubmed.ncbi.nlm.nih.gov/37217318/)
