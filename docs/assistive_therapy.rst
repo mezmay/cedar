@@ -104,3 +104,18 @@ Tumeric
 (https://pubmed.ncbi.nlm.nih.gov/36252717/)
 
 
+Melatonin
+---------
+
+* Fatemeh G, Sajjad M, Niloufar R, Neda S, Leila S, Khadijeh M. Effect of melatonin supplementation on sleep quality: a systematic review and meta-analysis of randomized controlled trials. J Neurol. 2022;269(1):205-216. doi:10.1007/s00415-020-10381-w
+(https://pubmed.ncbi.nlm.nih.gov/33417003/)
+
+
+* Choi K, Lee YJ, Park S, Je NK, Suh HS. Efficacy of melatonin for chronic insomnia: Systematic reviews and meta-analyses. Sleep Med Rev. 2022;66:101692. doi:10.1016/j.smrv.2022.101692
+(https://pubmed.ncbi.nlm.nih.gov/36179487/)
+
+* Menczel Schrire Z, Phillips CL, Chapman JL, et al. Safety of higher doses of melatonin in adults: A systematic review and meta-analysis. J Pineal Res. 2022;72(2):e12782. doi:10.1111/jpi.12782
+(https://pubmed.ncbi.nlm.nih.gov/34923676/)
+
+* Auld F, Maschauer EL, Morrison I, Skene DJ, Riha RL. Evidence for the efficacy of melatonin in the treatment of primary adult sleep disorders. Sleep Med Rev. 2017;34:10-22. doi:10.1016/j.smrv.2016.06.005
+(https://pubmed.ncbi.nlm.nih.gov/28648359/)
