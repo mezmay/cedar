@@ -81,7 +81,7 @@ No-added-salt diet for HTN
 
 Diet meta-analysis
 ------------------
-*Bonekamp NE, Cruijsen E, Geleijnse JM, et al. Diet in secondary prevention: the effect of dietary patterns on cardiovascular risk factors in patients with cardiovascular disease: a systematic review and network meta-analysis. Nutr J. 2024;23(1):18. Published 2024 Feb 8. doi:10.1186/s12937-024-00922-8 
+* Bonekamp NE, Cruijsen E, Geleijnse JM, et al. Diet in secondary prevention: the effect of dietary patterns on cardiovascular risk factors in patients with cardiovascular disease: a systematic review and network meta-analysis. Nutr J. 2024;23(1):18. Published 2024 Feb 8. doi:10.1186/s12937-024-00922-8 
 (https://pubmed.ncbi.nlm.nih.gov/38331867/)
 
 
@@ -94,7 +94,7 @@ Omega-3
 Tumeric 
 --------
 
-*Halegoua-DeMarzio D, Navarro V, Ahmad J, et al. Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]. Am J Med. 2023;136(2):200-206. doi:10.1016/j.amjmed.2022.09.026 
+* Halegoua-DeMarzio D, Navarro V, Ahmad J, et al. Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]. Am J Med. 2023;136(2):200-206. doi:10.1016/j.amjmed.2022.09.026 
 (https://pubmed.ncbi.nlm.nih.gov/36252717/)
 
 
