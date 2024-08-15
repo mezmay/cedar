@@ -107,6 +107,9 @@ Tumeric
 Melatonin
 ---------
 
+* Ferracioli-Oda E, Qawasmi A, Bloch MH. Meta-analysis: melatonin for the treatment of primary sleep disorders. PLoS One. 2013;8(5):e63773. Published 2013 May 17. doi:10.1371/journal.pone.0063773
+(https://pubmed.ncbi.nlm.nih.gov/23691095/)
+
 * Fatemeh G, Sajjad M, Niloufar R, Neda S, Leila S, Khadijeh M. Effect of melatonin supplementation on sleep quality: a systematic review and meta-analysis of randomized controlled trials. J Neurol. 2022;269(1):205-216. doi:10.1007/s00415-020-10381-w
 (https://pubmed.ncbi.nlm.nih.gov/33417003/)
 
@@ -119,3 +122,5 @@ Melatonin
 
 * Auld F, Maschauer EL, Morrison I, Skene DJ, Riha RL. Evidence for the efficacy of melatonin in the treatment of primary adult sleep disorders. Sleep Med Rev. 2017;34:10-22. doi:10.1016/j.smrv.2016.06.005
 (https://pubmed.ncbi.nlm.nih.gov/28648359/)
+
+
