@@ -24,6 +24,9 @@ Vitamine D
 * LeBoff MS, Chou SH, Ratliff KA, et al. Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults. N Engl J Med. 2022;387(4):299-309. doi:10.1056/NEJMoa2202106 
 (https://pubmed.ncbi.nlm.nih.gov/35939577/)
 
+* Avenell A, Mak JC, O'Connell D. Vitamin D and vitamin D analogues for preventing fractures in post-menopausal women and older men. Cochrane Database Syst Rev. 2014;2014(4):CD000227. Published 2014 Apr 14. doi:10.1002/14651858.CD000227.pub4
+(https://pubmed.ncbi.nlm.nih.gov/24729336/)
+
 
 Bempedoic Acid
 --------------
@@ -43,6 +46,9 @@ ELF EMF
 --------
 * Labrèche F, Goldberg MS, Valois MF, et al. Occupational exposures to extremely low frequency magnetic fields and postmenopausal breast cancer. Am J Ind Med. 2003;44(6):643-652. doi:10.1002/ajim.10264 
 (https://pubmed.ncbi.nlm.nih.gov/14635241/)
+
+* Chen Q, Lang L, Wu W, et al. A meta-analysis on the relationship between exposure to ELF-EMFs and the risk of female breast cancer. PLoS One. 2013;8(7):e69272. Published 2013 Jul 15. doi:10.1371/journal.pone.0069272
+(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069272)
 
 PDE5 inhibitor
 --------------
@@ -77,4 +83,18 @@ Diet meta-analysis
 ------------------
 *Bonekamp NE, Cruijsen E, Geleijnse JM, et al. Diet in secondary prevention: the effect of dietary patterns on cardiovascular risk factors in patients with cardiovascular disease: a systematic review and network meta-analysis. Nutr J. 2024;23(1):18. Published 2024 Feb 8. doi:10.1186/s12937-024-00922-8 
 (https://pubmed.ncbi.nlm.nih.gov/38331867/)
+
+
+Omega-3
+--------
+* Abdelhamid AS, Brown TJ, Brainard JS, et al. Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2018;7(7):CD003177. Published 2018 Jul 18. doi:10.1002/14651858.CD003177.pub3
+(https://pubmed.ncbi.nlm.nih.gov/30019766/)
+
+
+Tumeric 
+--------
+
+*Halegoua-DeMarzio D, Navarro V, Ahmad J, et al. Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]. Am J Med. 2023;136(2):200-206. doi:10.1016/j.amjmed.2022.09.026 
+(https://pubmed.ncbi.nlm.nih.gov/36252717/)
+
 
