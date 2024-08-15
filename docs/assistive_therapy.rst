@@ -91,6 +91,12 @@ Omega-3
 (https://pubmed.ncbi.nlm.nih.gov/30019766/)
 
 
+Pure EPA
+--------
+* Bhatt DL, Steg PG, Miller M, et al. Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia. N Engl J Med. 2019;380(1):11-22. doi:10.1056/NEJMoa1812792
+(https://pubmed.ncbi.nlm.nih.gov/30415628/)
+
+
 Tumeric 
 --------
 
