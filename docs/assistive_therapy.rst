@@ -42,7 +42,7 @@ N-Acetyl-L-Cysteine (NAC)
 * Nouri A, Heidarian E. Ameliorative effects of N-acetyl cysteine on diclofenac-induced renal injury in male rats based on serum biochemical parameters, oxidative biomarkers, and histopathological study. J Food Biochem. 2019;43(8):e12950. doi:10.1111/jfbc.12950 
 (https://pubmed.ncbi.nlm.nih.gov/31368551/)
 
-ELF EMF
+Extremely low frequency magnetic fields 
 --------
 * Labrèche F, Goldberg MS, Valois MF, et al. Occupational exposures to extremely low frequency magnetic fields and postmenopausal breast cancer. Am J Ind Med. 2003;44(6):643-652. doi:10.1002/ajim.10264 
 (https://pubmed.ncbi.nlm.nih.gov/14635241/)
