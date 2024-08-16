@@ -124,3 +124,53 @@ Melatonin
 (https://pubmed.ncbi.nlm.nih.gov/28648359/)
 
 
+Eggs consumption
+----------------
+* Li MY, Chen JH, Chen C, Kang YN. Association between Egg Consumption and Cholesterol Concentration: A Systematic Review and Meta-analysis of Randomized Controlled Trials. Nutrients. 2020;12(7):1995. Published 2020 Jul 4. doi:10.3390/nu12071995
+(https://pubmed.ncbi.nlm.nih.gov/32635569/)
+
+* Picklo M, Rust BM, Yeater K, Raatz S. Identification of different lipoprotein response types in people following a Mediterranean diet pattern with and without whole eggs. Nutr Res. 2022;105:82-96. doi:10.1016/j.nutres.2022.06.005
+(https://pubmed.ncbi.nlm.nih.gov/35905657/)
+
+* Wright CS, Zhou J, Sayer RD, Kim JE, Campbell WW. Effects of a High-Protein Diet Including Whole Eggs on Muscle Composition and Indices of Cardiometabolic Health and Systemic Inflammation in Older Adults with Overweight or Obesity: A Randomized Controlled Trial. Nutrients. 2018;10(7):946. Published 2018 Jul 23. doi:10.3390/nu10070946
+(https://pubmed.ncbi.nlm.nih.gov/30041437/)
+
+
+
+Statin
+-------
+* Qu H, Guo M, Chai H, Wang WT, Gao ZY, Shi DZ. Effects of Coenzyme Q10 on Statin-Induced Myopathy: An Updated Meta-Analysis of Randomized Controlled Trials. J Am Heart Assoc. 2018;7(19):e009835. doi:10.1161/JAHA.118.009835
+(https://pubmed.ncbi.nlm.nih.gov/30371340/)
+
+* Kennedy C, Köller Y, Surkova E. Effect of Coenzyme Q10 on statin-associated myalgia and adherence to statin therapy: A systematic review and meta-analysis. Atherosclerosis. 2020;299:1-8. doi:10.1016/j.atherosclerosis.2020.03.006
+(https://pubmed.ncbi.nlm.nih.gov/32179207/)
+
+* Kraut R, Wierenga F, Molstad E, et al. Intolerance upon statin rechallenge: A systematic review and meta-analysis of randomized controlled trials. PLoS One. 2023;18(12):e0295857. Published 2023 Dec 21. doi:10.1371/journal.pone.0295857
+(https://pubmed.ncbi.nlm.nih.gov/38128013/)
+
+
+coffee
+------
+
+* Jiang X, Zhang D, Jiang W. Coffee and caffeine intake and incidence of type 2 diabetes mellitus: a meta-analysis of prospective studies. Eur J Nutr. 2014;53(1):25-38. doi:10.1007/s00394-013-0603-x
+(https://pubmed.ncbi.nlm.nih.gov/24150256/)
+
+
+* Stensvold I, Tverdal A, Jacobsen BK. Cohort study of coffee intake and death from coronary heart disease over 12 years. BMJ. 1996;312(7030):544-545. doi:10.1136/bmj.312.7030.544
+(https://pubmed.ncbi.nlm.nih.gov/8595285/)
+
+* Superko HR, Bortz W Jr, Williams PT, Albers JJ, Wood PD. Caffeinated and decaffeinated coffee effects on plasma lipoprotein cholesterol, apolipoproteins, and lipase activity: a controlled, randomized trial. Am J Clin Nutr. 1991;54(3):599-605. doi:10.1093/ajcn/54.3.599
+(https://pubmed.ncbi.nlm.nih.gov/1877516/)
+
+* Bak AA, Grobbee DE. The effect on serum cholesterol levels of coffee brewed by filtering or boiling. N Engl J Med. 1989;321(21):1432-1437. doi:10.1056/NEJM198911233212103
+(https://pubmed.ncbi.nlm.nih.gov/2811958/)
+
+* Galarraga V, Boffetta P. Coffee Drinking and Risk of Lung Cancer-A Meta-Analysis. Cancer Epidemiol Biomarkers Prev. 2016;25(6):951-957. doi:10.1158/1055-9965.EPI-15-0727
+(https://pubmed.ncbi.nlm.nih.gov/27021045/)
+
+Herbal and natural supplement for sleep 
+---------------------------------------
+* Yeom JW, Cho CH. Herbal and Natural Supplements for Improving Sleep: A Literature Review. Psychiatry Investig. 2024;21(8):810-821. doi:10.30773/pi.2024.0121
+(https://pubmed.ncbi.nlm.nih.gov/39086164/)
+
+
