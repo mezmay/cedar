@@ -50,6 +50,9 @@ Extremely low frequency magnetic fields
 * Chen Q, Lang L, Wu W, et al. A meta-analysis on the relationship between exposure to ELF-EMFs and the risk of female breast cancer. PLoS One. 2013;8(7):e69272. Published 2013 Jul 15. doi:10.1371/journal.pone.0069272
 (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069272)
 
+* Klimek A, Rogalska J. Extremely Low-Frequency Magnetic Field as a Stress Factor-Really Detrimental?-Insight into Literature from the Last Decade. Brain Sci. 2021;11(2):174. Published 2021 Jan 31. doi:10.3390/brainsci11020174
+(https://pubmed.ncbi.nlm.nih.gov/33572550/)
+
 PDE5 inhibitor
 --------------
 * Kloner RA, Stanek E, Desai K, et al. The association of tadalafil exposure with lower rates of major adverse cardiovascular events and mortality in a general population of men with erectile dysfunction. Clin Cardiol. 2024;47(2):e24234. doi:10.1002/clc.24234 
