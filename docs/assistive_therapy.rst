@@ -53,6 +53,8 @@ Extremely low frequency magnetic fields
 * Klimek A, Rogalska J. Extremely Low-Frequency Magnetic Field as a Stress Factor-Really Detrimental?-Insight into Literature from the Last Decade. Brain Sci. 2021;11(2):174. Published 2021 Jan 31. doi:10.3390/brainsci11020174
 (https://pubmed.ncbi.nlm.nih.gov/33572550/)
 
+
+
 PDE5 inhibitor
 --------------
 * Kloner RA, Stanek E, Desai K, et al. The association of tadalafil exposure with lower rates of major adverse cardiovascular events and mortality in a general population of men with erectile dysfunction. Clin Cardiol. 2024;47(2):e24234. doi:10.1002/clc.24234 
@@ -171,8 +173,10 @@ coffee
 * Galarraga V, Boffetta P. Coffee Drinking and Risk of Lung Cancer-A Meta-Analysis. Cancer Epidemiol Biomarkers Prev. 2016;25(6):951-957. doi:10.1158/1055-9965.EPI-15-0727
 (https://pubmed.ncbi.nlm.nih.gov/27021045/)
 
+
 Herbal and natural supplement for sleep 
 ---------------------------------------
+
 * Yeom JW, Cho CH. Herbal and Natural Supplements for Improving Sleep: A Literature Review. Psychiatry Investig. 2024;21(8):810-821. doi:10.30773/pi.2024.0121
 (https://pubmed.ncbi.nlm.nih.gov/39086164/)
 
