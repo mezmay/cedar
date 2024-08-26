@@ -63,6 +63,20 @@ PDE5 inhibitor
 * Konstantinovsky A, Kuchersky N, Kridin K, Blum A. Improvement in Endothelial Function in Men Taking Phosphodiesterase Type 5 Inhibitors for Erectile Dysfunction. Am J Med. 2023;136(10):1041-1043. doi:10.1016/j.amjmed.2023.07.010
 (https://pubmed.ncbi.nlm.nih.gov/37506991/)
 
+* Soulaidopoulos S, Terentes-Printzios D, Ioakeimidis N, Tsioufis KP, Vlachopoulos C. Long-term effects of phosphodiesterase-5 inhibitors on cardiovascular outcomes and death: a systematic review and meta-analysis. Eur Heart J Cardiovasc Pharmacother. 2024;10(5):403-412. doi:10.1093/ehjcvp/pvae029
+(https://pubmed.ncbi.nlm.nih.gov/38777751/)
+
+* DE Nunzio C, Nacchia A, Grimaldi MC, et al. Major adverse cardiovascular events related to phosphodiesterase 5 inhibitors: analysis of real-life data from Eudra-Vigilance database. Minerva Urol Nephrol. 2024;76(2):203-209. doi:10.23736/S2724-6051.23.05611-2
+(https://pubmed.ncbi.nlm.nih.gov/38498298/)
+
+* Trolle Lagerros Y, Grotta A, Freyland S, Grannas D, Andersson DP. Risk of Death in Patients With Coronary Artery Disease Taking Nitrates and Phosphodiesterase-5 Inhibitors. J Am Coll Cardiol. 2024;83(3):417-426. doi:10.1016/j.jacc.2023.10.041
+(https://pubmed.ncbi.nlm.nih.gov/38233015/)
+
+* Goberdhan S, Blachman-Braun R, Nackeeran S, Masterson TA 3rd, Ramasamy R. Is tadalafil associated with decreased risk of major adverse cardiac events or venous thromboembolism in men with lower urinary tract symptoms?. World J Urol. 2022;40(7):1799-1803. doi:10.1007/s00345-022-04005-3
+(https://pubmed.ncbi.nlm.nih.gov/35469100/)
+
+
+
 
 Aloe Vera
 --------
