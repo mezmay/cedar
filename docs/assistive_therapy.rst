@@ -75,6 +75,15 @@ PDE5 inhibitor
 * Goberdhan S, Blachman-Braun R, Nackeeran S, Masterson TA 3rd, Ramasamy R. Is tadalafil associated with decreased risk of major adverse cardiac events or venous thromboembolism in men with lower urinary tract symptoms?. World J Urol. 2022;40(7):1799-1803. doi:10.1007/s00345-022-04005-3
 (https://pubmed.ncbi.nlm.nih.gov/35469100/)
 
+* Alsarhani A, Alarfaj M, Alhoutan K, Alsubaie H. Central Serous Chorioretinopathy Associated with Tadalafil. Case Rep Ophthalmol. 2022;13(3):999-1002. Published 2022 Nov 28. doi:10.1159/000527356
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9808129/)
+
+* Finzi A, Valsecchi N, Tassi F, Cellini M, Fontana L. Chronic Central Serous Chorioretinopathy with Pigment Epithelium Detachment Treated with Sildenafil: A Case Report. Case Rep Ophthalmol. 2022;13(3):692-699. Published 2022 Sep 19. doi:10.1159/000524992
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944586/)
+
+* Capece M, Montorio D, Comune C, et al. Retinal and Optic Disc Vascular Changes in Patients Using Long-Term Tadalafil: A Prospective Non-Randomized Matched-Pair Study. Diagnostics (Basel). 2021;11(5):802. Published 2021 Apr 28. doi:10.3390/diagnostics11050802
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146942/)
+
 
 
 
