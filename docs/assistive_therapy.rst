@@ -204,3 +204,8 @@ Herbal and natural supplement for sleep
 (https://pubmed.ncbi.nlm.nih.gov/39086164/)
 
 
+Fainting during blood donation
+--------------
+
+* Suessner S, Niklas N, Bodenhofer U, Meier J. Machine learning-based prediction of fainting during blood donations using donor properties and weather data as features. BMC Med Inform Decis Mak. 2022;22(1):222. Published 2022 Aug 20. doi:10.1186/s12911-022-01971-x
+(https://pubmed.ncbi.nlm.nih.gov/35987636/)
