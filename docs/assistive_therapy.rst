@@ -180,6 +180,12 @@ Statin
 coffee
 ------
 
+* Hao WR, Cheng CY, Chen HY, Chen JJ, Cheng TH, Liu JC. The Association between Cafestol and Cardiovascular Diseases: A Comprehensive Review. Medicina (Kaunas). 2024;60(6):867. Published 2024 May 26. doi:10.3390/medicina60060867
+(https://pubmed.ncbi.nlm.nih.gov/38929484/)
+
+* Mendoza MF, Sulague RM, Posas-Mendoza T, Lavie CJ. Impact of Coffee Consumption on Cardiovascular Health. Ochsner J. 2023;23(2):152-158. doi:10.31486/toj.22.0073
+(https://pubmed.ncbi.nlm.nih.gov/37323518/)
+
 * Jiang X, Zhang D, Jiang W. Coffee and caffeine intake and incidence of type 2 diabetes mellitus: a meta-analysis of prospective studies. Eur J Nutr. 2014;53(1):25-38. doi:10.1007/s00394-013-0603-x
 (https://pubmed.ncbi.nlm.nih.gov/24150256/)
 
