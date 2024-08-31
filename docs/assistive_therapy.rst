@@ -215,3 +215,11 @@ Fainting during blood donation
 
 * Suessner S, Niklas N, Bodenhofer U, Meier J. Machine learning-based prediction of fainting during blood donations using donor properties and weather data as features. BMC Med Inform Decis Mak. 2022;22(1):222. Published 2022 Aug 20. doi:10.1186/s12911-022-01971-x
 (https://pubmed.ncbi.nlm.nih.gov/35987636/)
+
+
+Active charcoal
+--------------
+
+* Hoegberg LCG, Shepherd G, Wood DM, et al. Systematic review on the use of activated charcoal for gastrointestinal decontamination following acute oral overdose. Clin Toxicol (Phila). 2021;59(12):1196-1227. doi:10.1080/15563650.2021.1961144
+(https://pubmed.ncbi.nlm.nih.gov/34424785/)
+
