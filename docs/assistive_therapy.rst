@@ -223,3 +223,10 @@ Active charcoal
 * Hoegberg LCG, Shepherd G, Wood DM, et al. Systematic review on the use of activated charcoal for gastrointestinal decontamination following acute oral overdose. Clin Toxicol (Phila). 2021;59(12):1196-1227. doi:10.1080/15563650.2021.1961144
 (https://pubmed.ncbi.nlm.nih.gov/34424785/)
 
+
+
+Lard
+-----
+
+* Imaki M, Miyoshi T, Tanada S, et al. Effect of lard and corn oil intake on serum lipids in young men. Acta Biol Hung. 1989;40(3):271-282.
+(https://pubmed.ncbi.nlm.nih.gov/2633589/)
